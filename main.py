@@ -140,5 +140,3 @@ if __name__ == '__main__':
         print("Tiempo total transcurrido: " + str(tiempoFinal - tiempoInicial) + " segundos")
 	print("Duracion fase uno " + str(tiempoFinalFaseUno - tiempoInicial) + " segundos")
 	print("Duracion fase dos " + str(tiempoFinal - tiempoFinalFaseUno) + " segundos")
-distribuidos.py
-Mostrando distribuidos.py
