@@ -1,33 +1,3 @@
-
-Conversación abierta; 1 mensaje leído
-
-Ir al contenido
-Cómo usar Gmail con lectores de pantalla
-in:sent 
-
-Mover a Recibidos Más 
-12 de 577
- 
-Código proyecto I distribuidos
-
-ismael teixeira <ismaelteixeira6@gmail.com>
-Archivos adjuntos22 may. (Hace 13 días.)
-para wpereira, Luis 
-Buenas noches profesor. Acorde a lo que conversamos en la tarde de hoy le envio el código del proyecto 1 de distribuidos. Además de esto, le envío adjunto una fuente en la que aparece información sobre lo que estuvimos hablando acerca de los apuntadores y el manejo de la memoria en python. Espero le sirva. Saludos!
-
-To read a file’s contents, call f.read(size), which reads some quantity of data and returns it as a string. size is an optional numeric argument. When size is omitted or negative, the entire contents of the file will be read and returned; it’s your problem if the file is twice as large as your machine’s memory. Otherwise, at most size bytes are read and returned. If the end of the file has been reached, f.read() will return an empty string ("")   Fuente: https://docs.python.org/2/tutorial/inputoutput.html
-
-Área de archivos adjuntos
-	
-Haz clic aquí para Responder, Responder a todos o Reenviar el mensaje
-2.64 GB (17%) de 15 GB utilizados
-Administrar
-Condiciones - Privacidad
-Última actividad de la cuenta: Hace 14 minutos.
-Detalles
-
-
-
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
